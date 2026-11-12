@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/shaik/Downloads/FPGA/Modelsim/project/fulladder
+vfull_adder
+Z1 !s110 1793599574
+!i10b 1
+!s100 5Q37:j3f_11BAznZamDcL0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IM1LNBae4][iGEa8A[J@m]0
+R0
+Z3 w1793599338
+8full_adder.v
+Ffull_adder.v
+!i122 0
+L0 3 19
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z6 !s108 1793599574.000000
+!s107 full_adder_tb.v|full_adder.v|
+Z7 !s90 -reportprogress|300|full_adder.v|full_adder_tb.v|
+!i113 1
+Z8 tCvgOpt 0
+vfull_adder_tb
+R1
+!i10b 1
+!s100 BbUUkT`<XMWZBV`NU0>dL2
+R2
+IPkH1^`JlJ0d1Rb]`cC@;92
+R0
+R3
+8full_adder_tb.v
+Ffull_adder_tb.v
+!i122 0
+L0 3 85
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 full_adder_tb.v|full_adder.v|
+R7
+!i113 1
+R8

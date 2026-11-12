@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/shaik/Downloads/FPGA/Modelsim/project/fsm_verilog
+vwashing_machine
+!s110 1793679731
+!i10b 1
+!s100 W?T89z1XCXaHFSC^HPJDJ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IU7dlnHCQhfa:b;:NMYRC:2
+R0
+Z2 w1793617770
+8washing_machine.v
+Fwashing_machine.v
+!i122 0
+L0 1 93
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793679731.000000
+!s107 washing_machine_tb.v|washing_machine.v|
+!s90 -reportprogress|300|washing_machine.v|washing_machine_tb.v|
+!i113 1
+Z5 tCvgOpt 0
+vwashing_machine_tb
+!s110 1793679741
+!i10b 1
+!s100 mkFz8=Rfm:@7aY06H`o6?0
+R1
+Id0OK^XlE4>]P`AhiJc41a0
+R0
+R2
+8washing_machine_tb.v
+Fwashing_machine_tb.v
+!i122 1
+L0 3 109
+R3
+R4
+r1
+!s85 0
+31
+!s108 1793679741.000000
+!s107 washing_machine_tb.v|
+!s90 -reportprogress|300|washing_machine_tb.v|
+!i113 1
+R5
